@@ -1,8 +1,0 @@
-#define ADDR 0xsnuffbook0000000000000000000000000000000
-
-import "std.mu"
-
-func pow(var x, var y) {
-    return x ** y
-}
-..
