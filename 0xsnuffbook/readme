@@ -1,4 +1,4 @@
-#define ADDR 0xsnuffbook0000000000000000000000000000000
+#define ADDR 0xsnuffbook000000000000000000000NL3011CL8a
 
 import "std.mu"
 
