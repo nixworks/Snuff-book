@@ -2,7 +2,7 @@
 
 Quote:
 
-"ze moesten allemaal zo snel mogelijk geruimd worden, in batches ( kassieweile ), including me.
+"ze moesten allemaal zo snel mogelijk geruimd worden, in batches ( kassie weile ), including me.
  een massamoordje in slow-motion"
  
  "Wij geven om de armen"
