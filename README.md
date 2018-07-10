@@ -2,7 +2,7 @@
 
 Quote zorgmanager Nel:
 
-"ze moesten allemaal zo snel mogelijk geruimd ( kassie weile ).. including me.
+"ze moesten allemaal zo snel mogelijk geruimd worden ( kassie weile ).. including me.
  een massamoordje in slow-motion"
  
  -----------------------------------------------------------------------
