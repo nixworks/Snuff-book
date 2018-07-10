@@ -7,7 +7,7 @@ Quote zorgmanager Nel ( NL3011CL8A ):
  
  -----------------------------------------------------------------------
  
- "Wij geven om de armen, iedereen is welkom"
+ "Wij geven om de armen, iedereen is welkom, alles onder 1 dak"
 ![](https://github.com/nixworks/Snuff-book/blob/master/business%20model/wasteil/AI/ArtBoard%20Image%20(425).jpg)
 
 zorgmanager mary ( NL3066TA131 )
