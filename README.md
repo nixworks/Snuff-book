@@ -17,3 +17,5 @@ Quote zorgmanager mary "moeilijk, moeilijk ..." ( NL3066TA131 )
 
 
 ![](https://github.com/nixworks/Snuff-book/blob/master/gifkabinet/designer%20killing/AI/ArtBoard%20Image%20(414).jpg)
+
+a machinegun or zyklone B would have givven a more worthy death
