@@ -7,6 +7,8 @@ Quote zorgmanager Nel ( NL3011CL8A ):
 "ze moesten allemaal zo snel mogelijk geruimd worden ( kassie weile ).. including me.
  een massamoordje in slow-motion"
  
+ ( Das sweitze leben gefuhl eines Heroin-Händlers )
+ 
  -----------------------------------------------------------------------
  
  "Wij geven om de armen, iedereen is welkom, alles onder 1 dak"
