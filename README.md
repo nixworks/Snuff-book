@@ -1,10 +1,11 @@
 # snuffbook(je)
 
-#############################
+#########################################################
 
 elf en dertigste command line
 
 select   : group of people
+
 tell.    : you all have to be tortured until you are dead
 
 method.  : chemical boarding
@@ -12,7 +13,8 @@ method.  : chemical boarding
 pow.     : isis NL3011CL8A
 
 logged.  : by lonely underground hash monk
-###########################################
+
+##########################################################
 
 the bitches brew:
 
