@@ -39,4 +39,4 @@ Quote zorgmanager mary "moeilijk, moeilijk ..." ( NL3066TA131 )
 
 editorial comment:
 ------------------
-'a machinegun or a zyklone B treatment would have givven us a more worthy death'
+'a machinegun or a zyklone B treatment would have givven us a more worthy dead!
