@@ -6,13 +6,13 @@ elf en dertigste command line
 
 select   : group of people
 
-tell.    : you all have to be tortured until you are dead
+message Rdam    : you all have to be tortured until you are dead
 
 method.  : chemical boarding
 
-pow.     : isis NL3011CL8A
+Proof of Work : isis NL3011CL8A
 
-logged.  : by lonely underground hash monk
+logged  : underground hash monk
 
 ##########################################################
 
