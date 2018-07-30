@@ -13,7 +13,7 @@ method.  : chemical boarding
 
 Proof of Work : isis NL3011CL8A
 
-logged  : underground hash monk
+logged by  : hash monk
 
 ##########################################################
 
