@@ -40,3 +40,6 @@ Quote zorgmanager mary "moeilijk, moeilijk ..." ( NL3066TA131 )
 editorial comment:
 ------------------
 'a machinegun or a zyklone B treatment would have givven us a more worthy dead!
+-------------------------------------------------------------------------------
+het stukje Nederland waar je gewoon mensen gehandicapt kunt maken en kunt uitmoorden.
+het stukje Nederland waar geen grondwet meer bestaat.
