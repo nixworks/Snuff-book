@@ -31,7 +31,7 @@ Quote zorgmanager Nel ( NL3011CL8A ):
  "Wij geven om de armen, iedereen is welkom, alles onder 1 dak"
 ![](https://github.com/nixworks/Snuff-book/blob/master/business%20model/wasteil/AI/ArtBoard%20Image%20(425).jpg)
 
-Quote zorgmanager mary "moeilijk, moeilijk ..." ( NL3066TA131 )
+Quote zorgmanager mary "moeilijk, moeilijk, ... stervens druk!" ( NL3066TA131 )
 ![](https://github.com/nixworks/Snuff-book/blob/master/book%20slot/slot%20machine/AI/ArtBoard%20Image%20(412).jpg)
 
 
